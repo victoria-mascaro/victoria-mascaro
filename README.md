@@ -1,4 +1,4 @@
-### Hi! I'm Vicky 👋 :tech
+### Hi! I'm Vicky 👋 👩‍💻
 
 - 📫 How to reach me **mvictoriamascaro@gmail.com**
 
