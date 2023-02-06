@@ -13,20 +13,19 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio" width="40" height="40"/>
 </div>
 
-
 ---
 
+### ✨ About Me :
+- 🤓 I have dedicated 5 years of studies to mathematics, statistics and economics, +2 of econometrics and programming!
+- 🥑 I was studying Data Analysis last year!
+- 🌱 I'm currently working on posting what I've already done.
+- ⚡ I'm available to work.
+- 📍 I have lived in Argentina, Brazil and Italy. I've already been in London.
+- ✆ WatsApp me : +39 351 708-7007
+
+
 <!--
-**victoria-mascaro/victoria-mascaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🏋️‍♂️ In my free time, I love doing powerlifting, stretching and meditation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
