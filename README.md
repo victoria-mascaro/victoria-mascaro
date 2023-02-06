@@ -22,6 +22,7 @@
 - 📍 I have lived in Argentina, Brazil and Italy. I've already been in London.
 - ✆ WatsApp me : +39 351 708-7007
 
+The projects were carried out in *Italian* or in *Spanish*, while the README.md will be published in English in order to reach the largest number of people.
 
 <!--
 
