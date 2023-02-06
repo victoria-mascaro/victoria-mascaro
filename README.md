@@ -28,4 +28,23 @@
 - 🏋️‍♂️ In my free time, I love doing powerlifting, stretching and meditation.
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio" width="40" height="40"/>
+
+```py
+while job_status  ==  False:
+	try:
+		get_job  = True 
+		work_at  = Europe or  work_at  = USA
+		live_at  = LAC  
+		break
+except:
+get_job  = True 
+		work_at  = Europe or  work_at  = USA
+live_at = Europe
+	else :  
+		work_at  = ‘wherever’
+		live_at  = ‘wherever’
+	finaly: 
+print(“regardless of what happens, I know I’ll make it happen!”)
+```
+
 -->
