@@ -14,12 +14,13 @@
 
 ---
 
-### ✨ About Me :
-- 🤓 I have dedicated 5 years of studies to mathematics, statistics and economics, +3 of econometrics and programming!
-- 🥑 I currently work for a consulting firm Novix, with a final client in Brazil.
-- 📍 I'm polyglot! I have lived in Argentina, Brazil and Italy. I've also been in London.
-- ⚡ Open to job opportunities.
--  ✆ WhatsApp me: +549 2302 541508 international calls require international lines 🗺🤗
+✨ I'm a passionate Data Scientist with a strong foundation in **mathematics**, **statistics**, **economics**, and **programming**. Here's a bit about me:
+###  About Me :
+- 📊 5+ years dedicated to mastering mathematics, statistics, and economics, with an additional 3+ years focusing on econometrics and programming.
+- 💻 I'm currently working at Novix Consulting, delivering data-driven insights for clients in Brazil.
+- 🌍 Multilingual and multicultural – having lived in Argentina, Brazil, and Italy, I bring a global perspective to my work. I've also spent time in London!
+- 🔍 Always on the lookout for new job opportunities and exciting projects in Data Science and Machine Learning.
+- 📱 Contact me via WhatsApp: +549 2302 541508
 
 The projects were carried out in *Italian* or in *Spanish*, while the README.md will be published in English in order to reach the largest number of people.
 
